@@ -15,7 +15,7 @@ fn main() {
     
     // initialisation of variables
     let mut iteration = 0;
-    let mut _mse = 0.0; // mean-squared error
+    let mut _mse = 0.0; // mean squared error
     // '_var' to supress 'unused_assignments' warning
     
     // gradient descent parameters
@@ -53,7 +53,7 @@ fn main() {
             
         let gradient_c = (2.0 / n) * sum;
 
-        // update parameters using gradient descent technique
+        // update parameters using gradient descent algorithm
         m = m - lr * gradient_m;
         c = c - lr * gradient_c;
 
