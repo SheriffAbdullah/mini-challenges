@@ -1,6 +1,6 @@
 # Mini-Challenges
 
-This repository contains solutions to mini-challenges tackled by [Haripriya Narahari](https://github.com/Haripriya-Narahari) and me.
+This repository contains solutions to mini-challenges tackled by [Haripriya Narahari](https://github.com/Haripriya-Narahari) and me. Feel free to explore [this repository](https://github.com/Haripriya-Narahari/hpn_rust_playground/tree/main) for more!
 
 ## Implementations:
 
