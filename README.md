@@ -1,6 +1,6 @@
 # Mini-Challenges
 
-This repository contains solutions to mini-challenges tackled by me and [Haripriya Narahari](https://github.com/Haripriya-Narahari) in Rust programming language.
+This repository contains solutions to mini-challenges tackled by [Haripriya Narahari](https://github.com/Haripriya-Narahari) and me.
 
 ## Implementations:
 
